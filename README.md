@@ -14,3 +14,5 @@ To prepare the data for machine learning modeling, we performed feature processi
 Finally, we developed a machine learning model using regression analysis to predict future demand accurately. We used past sales data to identify patterns in demand and develop a model that could forecast future demand. This model would then be used to inform purchasing and stocking decisions, reducing the likelihood of stockouts and overstocking.
 
 In conclusion, using machine learning to forecast demand can significantly improve stock management for corporations like Favorita. By leveraging historical sales data, store locations, holidays, and oil prices, companies can develop accurate forecasting models that can inform purchasing and stocking decisions. By reducing stockouts and overstocking, companies can optimize their operations and maximize profits.
+
+### Link to the medium article: https://medium.com/@violetteallotey/regression-analysis-on-the-demand-of-corporation-favorita-products-b5863300db31
