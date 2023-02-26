@@ -1,5 +1,5 @@
 # Regression-Project
-Regression Analysis on the Demand of Corporation Favorita Products
+## Regression Analysis on the Demand of Corporation Favorita Products
 
 Corporation Favorita, a retail company, seeks to optimize its stock management system by accurately predicting the demand for its products. To achieve this, they have collected several datasets containing historical sales data, store locations, holidays, and oil prices. The company hopes to use this data to develop a machine learning model that can accurately forecast future demand and inform purchasing and stocking decisions.
 
